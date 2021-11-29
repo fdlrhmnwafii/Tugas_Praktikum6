@@ -1,0 +1,29 @@
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 33.33%;
+    margin: 5px;
+
+}
+
+.box2{
+    width: 20%;
+    margin: 5px;
+
+}
+
+.box img{
+    width: 100%;
+}
+
+.box2 img{
+    width: 100%;
+}
